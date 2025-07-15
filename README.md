@@ -1,9 +1,7 @@
-# 👋 Hi, I'm Shruti Rajendra Chim
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShrutiChim&label=Profile%20views&color=0e75b6&style=flat" alt="ShrutiChim" />
+  <img src="https://github.com/ShrutiChim.png" width="180" height="180" alt="Shruti Chim"
+       style="border-radius: 50%; border: 4px solid #6c63ff;" />
 </p>
-
 <h3 align="center">A passionate Full Stack Developer & Data Enthusiast from India 🇮🇳</h3>
 
 ---
@@ -25,7 +23,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -54,12 +52,12 @@
 
 ---
 
-### 📢 Reach Me
+### 📣 Reach Me
 
-- Email: [chimshrutirajendra@gmail.com](mailto:chimshrutirajendra@gmail.com)
-- GitHub: [github.com/ShrutiChim](https://github.com/ShrutiChim)
-- LinkedIn: [Shruti Chim](https://linkedin.com/in/shruti-chim)
-- Instagram: [@shrutichim_](https://instagram.com/shrutichim_)
+- 📧 Email: [chimshrutirajendra@gmail.com](mailto:chimshrutirajendra@gmail.com)
+- 💻 GitHub: [github.com/ShrutiChim](https://github.com/ShrutiChim)
+- 🔗 LinkedIn: [Shruti Chim](https://linkedin.com/in/shruti-chim)
+- 📸 Instagram: [@shrutichim_](https://instagram.com/shrutichim_)
 
 ---
 
